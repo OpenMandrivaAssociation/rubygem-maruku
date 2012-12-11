@@ -51,3 +51,10 @@ rm -rf %{buildroot}
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/docs
 %{ruby_gemdir}/cache/%{oname}-%{version}.gem
 %{ruby_gemdir}/specifications/%{oname}-%{version}.gemspec
+
+
+%changelog
+* Sun Dec 19 2010 Rémy Clouard <shikamaru@mandriva.org> 0.5.9-1mdv2011.0
++ Revision: 623121
+- import rubygem-maruku
+
