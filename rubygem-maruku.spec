@@ -2,7 +2,7 @@
 
 Name:       rubygem-%{oname}
 Version:    0.5.9
-Release:    %mkrel 1
+Release:    2
 Summary:    Maruku is a Markdown-superset interpreter written in Ruby
 Group:      Development/Ruby
 License:    GPLv2+ or Ruby
