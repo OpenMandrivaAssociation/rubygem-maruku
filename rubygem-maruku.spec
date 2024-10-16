@@ -6,7 +6,7 @@ Release:    2
 Summary:    Maruku is a Markdown-superset interpreter written in Ruby
 Group:      Development/Ruby
 License:    GPLv2+ or Ruby
-URL:        http://maruku.rubyforge.org
+URL:        https://maruku.rubyforge.org
 Source0:    %{oname}-%{version}.gem
 BuildRoot:  %{_tmppath}/%{name}-%{version}-%{release}-root
 Requires:   rubygems
